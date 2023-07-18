@@ -13,3 +13,15 @@
  #search{
     margin: 5px;
 }
+.body{
+    background-color: black;
+}
+
+
+.form-control{
+    color: aliceblue;
+}
+.label{
+    text-align: center;
+    color: aliceblue;
+}
